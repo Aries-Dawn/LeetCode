@@ -2,11 +2,13 @@
 
 The code in `LeetCode` practice.
 + Some Problems
-  + P57 - https://www.lintcode.com/problem/57 `From LintCode Not LeetCode`
-  + P918 - https://www.lintcode.com/problem/918 `From LintCode Not LeetCode`
-  + P704 - https://leetcode-cn.com/problems/binary-search/
-  + P35 - https://leetcode-cn.com/problems/search-insert-position/
-  + P977 - https://leetcode-cn.com/problems/squares-of-a-sorted-array/
+  + [E]P57 - https://www.lintcode.com/problem/57 `From LintCode Not LeetCode`
+  + [E]P918 - https://www.lintcode.com/problem/918 `From LintCode Not LeetCode`
+  + [E]P704 - https://leetcode-cn.com/problems/binary-search/
+  + [E]P35 - https://leetcode-cn.com/problems/search-insert-position/
+  + [E]P977 - https://leetcode-cn.com/problems/squares-of-a-sorted-array/
+  + [M]P189 - https://leetcode-cn.com/problems/rotate-array/
+  + [E]P283 - https://leetcode-cn.com/problems/move-zeroes/
 
 + `Tecent_Exercise_In_LeetCode`
   + ArraysAndString
