@@ -9,6 +9,12 @@ The code in `LeetCode` practice.
   + [E]P977 - https://leetcode-cn.com/problems/squares-of-a-sorted-array/
   + [M]P189 - https://leetcode-cn.com/problems/rotate-array/
   + [E]P283 - https://leetcode-cn.com/problems/move-zeroes/
+  + [E]P167 - https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
+  + [E]P344 - https://leetcode-cn.com/problems/reverse-string/
+  + [E]P557 - https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/
+  + [E]P876 - https://leetcode-cn.com/problems/middle-of-the-linked-list/
+  + [M]P19 - https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
+  + 
 
 + `Tecent_Exercise_In_LeetCode`
   + ArraysAndString
