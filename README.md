@@ -16,7 +16,21 @@ The code in `LeetCode` practice.
   + [M]P19  - https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
   + [M]P3   - https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
   + [M]P567 - https://leetcode-cn.com/problems/permutation-in-string/
-
+  + [E]P733 - https://leetcode-cn.com/problems/flood-fill/
+  + [M]P695 - https://leetcode-cn.com/problems/max-area-of-island/
+  + [H]P76  - https://leetcode-cn.com/problems/minimum-window-substring/
+  + [M]P516 - https://leetcode-cn.com/problems/longest-palindromic-subsequence/
+  + [E]O25  - https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
+  + [M]O16  - https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
+  + [M]P946 - https://leetcode-cn.com/problems/validate-stack-sequences/
+  + [M]P107 - https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/
+  + [M]P5   - https://leetcode-cn.com/problems/longest-palindromic-substring/
+  + [M]P7   - https://leetcode-cn.com/problems/reverse-integer/submissions/
+  + [M]P8   - https://leetcode-cn.com/problems/string-to-integer-atoi/
+  + [M]P11  - https://leetcode-cn.com/problems/container-with-most-water/
+  + [M]P12  - https://leetcode-cn.com/problems/integer-to-roman/
+  + [M]P16  - https://leetcode-cn.com/problems/3sum-closest/
+  + 
 + `Tecent_Exercise_In_LeetCode`
   + ArraysAndString
     + TwoSum - https://leetcode-cn.com/leetbook/read/tencent/xxqfy5/
