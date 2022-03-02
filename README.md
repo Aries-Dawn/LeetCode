@@ -32,6 +32,14 @@ The code in `LeetCode` practice.
   + [M]P16  - https://leetcode-cn.com/problems/3sum-closest/
   + [M]P17  - https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
   + [M]P1076- https://leetcode-cn.com/problems/where-will-the-ball-fall/
+  + [M]P537 - https://leetcode-cn.com/problems/complex-number-multiplication/
+  + [M]P18  - https://leetcode-cn.com/problems/4sum/
+  + [E]P2016- https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/
+  + [M]P22  - https://leetcode-cn.com/problems/generate-parentheses/
+  + [M]P6008- (P2185)https://leetcode-cn.com/problems/counting-words-with-a-given-prefix/
+  + [M]P6009- (P2186)https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
+  + [M]P6010- (P2187)https://leetcode-cn.com/problems/minimum-time-to-complete-trips/
+  + [H]P564 - https://leetcode-cn.com/problems/find-the-closest-palindrome/
   + 
 + `Tecent_Exercise_In_LeetCode`
   + ArraysAndString
