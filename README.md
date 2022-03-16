@@ -40,6 +40,7 @@ The code in `LeetCode` practice.
   + [M]P6009- (P2186)https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
   + [M]P6010- (P2187)https://leetcode-cn.com/problems/minimum-time-to-complete-trips/
   + [H]P564 - https://leetcode-cn.com/problems/find-the-closest-palindrome/
+  + [M]P029 - https://leetcode-cn.com/problems/minimum-size-subarray-sum/
   + 
 + `Tecent_Exercise_In_LeetCode`
   + ArraysAndString
