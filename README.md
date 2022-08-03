@@ -41,7 +41,7 @@ The code in `LeetCode` practice.
   + [M]P6010- (P2187)https://leetcode-cn.com/problems/minimum-time-to-complete-trips/
   + [H]P564 - https://leetcode-cn.com/problems/find-the-closest-palindrome/
   + [M]P029 - https://leetcode-cn.com/problems/minimum-size-subarray-sum/
-  + 
+  + [H]P899 - https://leetcode.cn/problems/orderly-queue/
 + `Tecent_Exercise_In_LeetCode`
   + ArraysAndString
     + TwoSum - https://leetcode-cn.com/leetbook/read/tencent/xxqfy5/
