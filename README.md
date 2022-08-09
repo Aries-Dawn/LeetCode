@@ -42,6 +42,8 @@ The code in `LeetCode` practice.
   + [H]P564 - https://leetcode-cn.com/problems/find-the-closest-palindrome/
   + [M]P029 - https://leetcode-cn.com/problems/minimum-size-subarray-sum/
   + [H]P899 - https://leetcode.cn/problems/orderly-queue/
+  + [E]P1413- https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/
+  + 
 + `Tecent_Exercise_In_LeetCode`
   + ArraysAndString
     + TwoSum - https://leetcode-cn.com/leetbook/read/tencent/xxqfy5/
