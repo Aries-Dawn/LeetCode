@@ -42,6 +42,7 @@ The code in `LeetCode` practice.
   + [H]P564 - https://leetcode-cn.com/problems/find-the-closest-palindrome/
   + [M]P029 - https://leetcode-cn.com/problems/minimum-size-subarray-sum/
   + [H]P899 - https://leetcode.cn/problems/orderly-queue/
+  + [E]P1413- https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/
   + [M]P636 - https://leetcode.cn/problems/exclusive-time-of-functions/
   + [E]P1464- https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/
   + 
