@@ -42,6 +42,9 @@ The code in `LeetCode` practice.
   + [H]P564 - https://leetcode-cn.com/problems/find-the-closest-palindrome/
   + [M]P029 - https://leetcode-cn.com/problems/minimum-size-subarray-sum/
   + [H]P899 - https://leetcode.cn/problems/orderly-queue/
+  + [M]P636 - https://leetcode.cn/problems/exclusive-time-of-functions/
+  + [E]P1464- https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/
+  + 
 + `Tecent_Exercise_In_LeetCode`
   + ArraysAndString
     + TwoSum - https://leetcode-cn.com/leetbook/read/tencent/xxqfy5/
