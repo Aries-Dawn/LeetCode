@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 import java.util.Stack;
+import java.util.stream.Collectors;
 
 class P636 {
     public int[] exclusiveTime(int n, List<String> logs) {
@@ -60,7 +61,7 @@ class P636 {
     public static void main(String[] args) {
         P636 p636 = new P636();
         String[] input = {"0:start:0","1:start:2","1:end:5","0:end:6"};
-        List<String> in = Arrays.stream(input).toList();
+        List<String> in = Arrays.stream(input).collect(Collectors.toList());
         System.out.println(Arrays.toString(p636.exclusiveTime(3, in)));
     }
 }
