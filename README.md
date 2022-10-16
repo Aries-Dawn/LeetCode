@@ -45,6 +45,8 @@ The code in `LeetCode` practice.
   + [E]P1413- https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/
   + [M]P636 - https://leetcode.cn/problems/exclusive-time-of-functions/
   + [E]P1464- https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/
+  + [E]P1624- https://leetcode.cn/problems/largest-substring-between-two-equal-characters/
+  + [M]P1441- https://leetcode.cn/problems/build-an-array-with-stack-operations/
   + 
 + `Tecent_Exercise_In_LeetCode`
   + ArraysAndString
